@@ -1,6 +1,6 @@
 # SIT BANK
 
-[![Deployed App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)](https://abbythebanker.streamlit.app/)
+[![Deployed App](https://img.shields.io/badge/Streamlit-Deployed-brightgreen)](https://bankersite101.streamlit.app/)
 
 Welcome to **SIT BANK**!  
 This project is an interactive web application built with [Streamlit](https://streamlit.io/), designed to provide a seamless user experience for [describe what your app does here, e.g., personal finance management, banking assistant, loan calculator, etc.].
@@ -8,7 +8,7 @@ This project is an interactive web application built with [Streamlit](https://st
 ## 🚀 Live Demo
 
 Check out the deployed app here:  
-👉 [https://abbythebanker.streamlit.app/](https://abbythebanker.streamlit.app/)
+👉 [https://bankersite101.streamlit.app/](https://bankersite101.streamlit.app/)
 
 ## Features
 
